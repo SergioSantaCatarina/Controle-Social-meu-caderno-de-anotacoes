@@ -1,6 +1,6 @@
 # Controle Social
 ## Meu Caderno de Anotações
-### Utilizando o NotebookLM para construir um caderno de anotações acerca do Controle Social da Administração Pública no Brasil
+### Utilizando o NotebookLM para conhecer o Controle Social da Administração Pública no Brasil
 
 # Contexto e Objetivo
 
@@ -20,10 +20,12 @@ Nos temmpos atuais, seria desperdício não utilizar as tecnologias que nos são
 A seguir as fontes fornecidas ao NotebookLM para a produção do mini guia de estudos acerca do Controle Social da Administração Pública.
 
 ### Constituição da República Federativa do Brasil: 
-  link: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+  Arquivo pdf carregado de https://www2.senado.leg.br/bdsf/bitstream/handle/id/685819/CF88_EC135_2025_separata.pdf
+  Obs: O link web https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm não funcionou no NotebookLM
 
 ### Lei de Acesso à Informação - Lei Nº 12.527/2011 
-  link: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm
+  Arquivo pdf carregado de https://www.transparenciacultura.sp.gov.br/wp-content/uploads/2018/12/Lei_de_acesso_a_informacao_n_12.527_2011.pdf
+  Obs: O link web  https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm também não funcionou.
 
 ### Saiba o que é controle social, uma forma de fiscalizar o governo e exigir bons serviços públicos
   Link: https://www.youtube.com/watch?v=zVmJFP4Wf_0
@@ -43,7 +45,8 @@ A seguir as fontes fornecidas ao NotebookLM para a produção do mini guia de es
 ### Controle Social como Exercício de Cidadania e Combate à Corrupção
   Arquivo pdf carregado em fontes, obtido de https://ojs.focopublicacoes.com.br/foco/article/view/3852/2676
 
-  
+  <img width="751" height="903" alt="image" src="https://github.com/user-attachments/assets/8d34caeb-ece0-494b-82e7-a258103018a2" />
+
   
 # Engenharia de Prompts e "Cicatrizes": 
 
