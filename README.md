@@ -2,7 +2,7 @@
 ## Meu Caderno de Anotações
 ### Utilizando o NotebookLM para conhecer o Controle Social da Administração Pública no Brasil
 
-*  **Nota: o Caderno de Anotações está disponível em https://notebooklm.google.com/notebook/22038dab-658d-4739-92c5-c92c7ae35fbf**
+*  **Nota: Caderno disponível em https://notebooklm.google.com/notebook/22038dab-658d-4739-92c5-c92c7ae35fbf**
 
 
 # Contexto e Objetivo
