@@ -16,7 +16,7 @@ enquanto não houver entidades e cidadãos capacitados, conhecedores de tais mec
 
 Neste contesto, o objetivo deste trabalho consiste em disponibilizar um breve guia de aprendizado às pessoas que buscam conhecer conceitos, canais e direitos facultados para que possam, minimamente, começar sua jornada de agente de controle social, ampliando assim seu exercício de plena cidadania.
 
-Nos temmpos atuais, seria desperdício não utilizar as tecnologias que nos são disponibilizadas. Assim, conto com a valorosa ajuda do NotebookLM para a síntese de extensos materiais e a estruturação lógica, concisa e atraente deste conteúdo, contando inclusíve com as diversas formas de apresentação que o mesmo me facilita sobremaneira.
+Nos tempos atuais, seria desperdício não utilizar as tecnologias que nos são disponibilizadas. Assim, conto com a valorosa ajuda do NotebookLM para a síntese de extensos materiais e a estruturação lógica, concisa e atraente deste conteúdo, contando inclusíve com as diversas formas de apresentação que o mesmo me facilita sobremaneira.
 
 # Curadoria de Fontes
 
