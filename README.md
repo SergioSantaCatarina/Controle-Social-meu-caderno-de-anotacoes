@@ -163,11 +163,9 @@ Para compreender o contexto do **Controle Social** da Administração Pública n
 
 # Miniguia de Estudo (Entrega Final)
 
-Considerando sendo um primeiro exercício empregando o NotebookLM, considero que os prompts acerca dos mecanismos que permitem ao cidadão exercer o Controle Social e quanto à base legal que lhe dá suporte, juntamente com as respostas, consistem num resumo estruturado do assunto.
+Ver arquivos Briefing e Guia de Estudos para complementar este documento, em atendimento à especificação do projeto.
 
-O Glossário, resultante do terceiro prompt, considero atender ao segundo item do miniguia a ser entregue.
-
-Resta, portanto, atender apresentar um conjunto de prompts reutilizáveis que possam apoiar revisões sobre o tema, os quais seguem abaixo.
+Complementando o conjunto de prompts reutilizáveis que possam apoiar revisões sobre o tema, segue lista dos três prompts sugeridos pelo próprio NotebookLM após a resposta a cada um dos prompts submetidos acima.
 
 *  Como funciona a Ação Popular para o cidadão comum?
 *  Qual a diferença entre transparência ativa e passiva?
